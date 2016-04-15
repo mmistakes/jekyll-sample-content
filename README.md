@@ -61,12 +61,12 @@ defaults:
 | **authors** | `authors.yml` data file for testing multi-author sites | Yes |
 | **drafts** | sample draft posts | No |
 | **includes** | various helpers for generating galleries, feature blocks, table of contents, etc. | Yes |
-| **pages** | sample pages, 404 error page, and various Liquid-based archives[^array] | No |
+| **pages** | sample pages, 404 error page, and various Liquid-based archives | No |
 | **collections** | collection documents for `_pets`, `_recipes`, `_portfolio` | No |
 | **posts** | sample posts with a range of content and edge-cases | Yes |
 | **images** | image assets found in sample posts and collections | No |
 
-[^array]: Some archives make use of the [`group-by-array`](https://github.com/mushishi78/jekyll-group-by-array) include helper.
+Some archives make use of the [`group-by-array`](https://github.com/mushishi78/jekyll-group-by-array) include helper.
 
 ---
 
