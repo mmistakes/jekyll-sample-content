@@ -38,8 +38,8 @@ defaults:
       type: recipes
     values:
       layout: single
+  
   # pets collection
-
   - scope:
       path: ""
       type: pets
