@@ -70,6 +70,8 @@ Some archives make use of the [`group-by-array`](https://github.com/mushishi78/j
 
 ---
 
+## License
+
 MIT License
 
 Copyright (c) 2016 Michael Rose
