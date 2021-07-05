@@ -1,5 +1,4 @@
-# Jekyll Theme Unit Test
-
+# Jekyll sample content
 I found myself creating *dummy* content over and over again to test Jekyll themes against. So to save time I put together a collection of posts, pages, and collections that cover all sorts of edge cases one might encounter.
 
 This was predominately built to test [my Jekyll themes](https://mademistakes.com/work/jekyll-themes/) so there are a few layout specific tests in there. But otherwise it should be a solid starting point to test your project against.
